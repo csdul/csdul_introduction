@@ -12,10 +12,10 @@ This repository contains the key documents that govern the operation of CSDUL. T
 
 - **Hub and Nodes**: Hub and Nodes role and components set up. There is one Hub and five Nodes. The nodes are:
   - **Node 1**: [Political Economic Context](https://github.com/csdul/pre_beta_political_economics_context)
-  - **Node 2**: Environmental Context
-  - **Node 3**: Socioeconomic Context    
-  - **Node 4**: Material Circumstances
-  - **Node 5**: Health System
+  - **Node 2**: [Environmental Context](https://github.com/csdul/pre_beta_hub_individual_health)
+  - **Node 3**: [Socioeconomic Context](https://github.com/csdul/pre_beta_socioeconomic_context)    
+  - **Node 4**: [Material Circumstances](https://github.com/csdul/pre_beta_material_circumstances)
+  - **Node 5**: [Health System](https://github.com/csdul/pre_beta_health_system)
 
 ## CSDUL **Workflow**
 ![image](https://github.com/user-attachments/assets/b4c8a4ba-49db-4e8e-b4bb-f189e0de3b5a)
