@@ -9,6 +9,9 @@ This repository contains the key documents that govern the operation of CSDUL. T
 - **Workflow**: Diagrams that illustrate the structure and operational flow of the CSDUL system, showing how different components interact and the steps involved in the data processing pipeline.
   
 - **[Organization Chart](https://drive.google.com/file/d/1Ua1ioOLbiCRUBbGCvqOc84TH2xNAs38l/view?usp=sharing)**
+
+- **CSDUL** Components Set Up
+![image](https://github.com/user-attachments/assets/ceee5ccc-7b18-4a40-9013-d898fc2c74e9)
     
 ## General CSDUL CSDUL
 
