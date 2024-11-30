@@ -11,7 +11,7 @@ This repository contains the key documents that govern the operation of CSDUL. T
 - **Workflow**: Diagrams that illustrate the structure and operational flow of the CSDUL system, showing how different components interact and the steps involved in the data processing pipeline.
 
 - **Hub and Nodes**: Hub and Nodes role and components set up. There is one Hub and five Nodes. The nodes are:
-  - **Node 1**: Political Economic Context
+  - **Node 1**: [Political Economic Context](https://github.com/csdul/pre_beta_political_economics_context)
   - **Node 2**: Environmental Context
   - **Node 3**: Socioeconomic Context    
   - **Node 4**: Material Circumstances
