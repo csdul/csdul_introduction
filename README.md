@@ -2,9 +2,9 @@
 
 This repository contains the key documents that govern the operation of CSDUL. These documents explain various processes associated with the project. They include:
 
-- **Coding Standards**: Guidelines and protocols for coding within the project. It defines rules for naming conventions, formatting, and structuring code to ensure consistency and accuracy across the system.
+- **[Coding Standards](https://docs.google.com/document/d/17h79bGMTlEYICTR_gD_mV9XaFS2JQmzFCMC_w5CI0kc/edit?usp=drive_link)**: Guidelines and protocols for coding within the project. It defines rules for naming conventions, formatting, and structuring code to ensure consistency and accuracy across the system.
   
-- **Process to Add Inputs into CSDUL**: This document outlines how new data or inputs are incorporated into the CSDUL system. It includes steps for validation, formatting, and quality assurance to maintain the integrity of the dataset.
+- **[Process to Add Inputs into CSDUL](https://docs.google.com/document/d/1ig7-2o3SWa7oVhyf-YDoMvn5qlT0VHx-eUM-Dx_XFaQ/edit?usp=drive_link)**: This document outlines how new data or inputs are incorporated into the CSDUL system. It includes steps for validation, formatting, and quality assurance to maintain the integrity of the dataset.
 
 - **Workflow**: Diagrams that illustrate the structure and operational flow of the CSDUL system, showing how different components interact and the steps involved in the data processing pipeline.
   
