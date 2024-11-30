@@ -13,7 +13,7 @@ This repository contains the key documents that govern the operation of CSDUL. T
 - **Hub and Nodes**: Hub and Nodes role and components set up.
 
 ## CSDUL **Workflow**
-![General Diagram](./assets/b4c8a4ba-49db-4e8e-b4bb-f189e0de3b5a)
+![image](https://github.com/user-attachments/assets/b4c8a4ba-49db-4e8e-b4bb-f189e0de3b5a)
 
 ## Definitions
 
@@ -34,7 +34,6 @@ CSDUL components are integrated to generate new health indicators and analyses.
 
 ## Process to Incorporate Files Into CSDUL
 ![image](https://github.com/user-attachments/assets/1074f403-a706-4687-8097-e7027ddee57a)
-![image](https://github.com/user-attachments/assets/b4c8a4ba-49db-4e8e-b4bb-f189e0de3b5a)
 
 ## CSDUL Components Set Up by Nodes
 ![image](./assets/ceee5ccc-7b18-4a40-9013-d898fc2c74e9)
