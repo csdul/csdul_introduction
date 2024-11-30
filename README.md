@@ -35,6 +35,19 @@ CSDUL components are integrated to generate new health indicators and analyses.
 
 ![Incorporation Process](https://github.com/user-attachments/assets/1074f403-a706-4687-8097-e7027ddee57a)
 
+### How Are CSDUL Indicators Organized?
+
+Each indicator and model in the **CSDUL** is organized into the following folders:
+
+- **Codes**: Contains scripts or algorithms used to calculate and process the indicator.
+- **Documents**: Includes detailed documentation outlining the methodology, purpose, and any relevant notes for the indicator.
+- **Tables or Datasets**: Contains the data used for calculating or representing the indicator.
+- **Support Files** (if applicable): Provides additional resources such as configuration files, reference data, or supplementary models.
+
+This repository is collaboratively developed by the **Nodes** and the **Hub**, ensuring an integrated approach to data management and indicator development.
+
+
+
 If you have any questions or requests, please feel free to contact the CSDUL team:
 
 - **Contact Email**: [daniel.yc@usask.ca](mailto:daniel.yc@usask.ca)
