@@ -10,7 +10,7 @@ This repository contains the key documents that govern the operation of CSDUL. T
   
 - **[Organization Chart](https://drive.google.com/file/d/1Ua1ioOLbiCRUBbGCvqOc84TH2xNAs38l/view?usp=sharing)**
 
-- **CSDUL** Components Set Up
+## CSDUL Components Set Up
 ![image](https://github.com/user-attachments/assets/ceee5ccc-7b18-4a40-9013-d898fc2c74e9)
     
 ## General CSDUL CSDUL
