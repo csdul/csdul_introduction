@@ -2,19 +2,19 @@
 
 This repository contains the key documents that govern the operation of CSDUL. These documents explain various processes associated with the project. They include:
 
-- **[Coding Standards](https://docs.google.com/document/d/17h79bGMTlEYICTR_gD_mV9XaFS2JQmzFCMC_w5CI0kc/edit?usp=drive_link)**: Guidelines and protocols for coding within the project. It defines rules for naming conventions, formatting, and structuring code to ensure consistency and accuracy across the system.
+- **[Coding Standards](./Coding-Standards.md)**: Guidelines and protocols for coding within the project. It defines rules for naming conventions, formatting, and structuring code to ensure consistency and accuracy across the system.
   
-- **[Process to Add Inputs into CSDUL](https://docs.google.com/document/d/1ig7-2o3SWa7oVhyf-YDoMvn5qlT0VHx-eUM-Dx_XFaQ/edit?usp=drive_link)**: This document outlines how new data or inputs are incorporated into the CSDUL system. It includes steps for validation, formatting, and quality assurance to maintain the integrity of the dataset.
+- **[Process to Add Inputs into CSDUL](./Process-to-Add-Inputs.md)**: This document outlines how new data or inputs are incorporated into the CSDUL system. It includes steps for validation, formatting, and quality assurance to maintain the integrity of the dataset.
 
-- **[Organization Chart](https://drive.google.com/file/d/1Ua1ioOLbiCRUBbGCvqOc84TH2xNAs38l/view?usp=sharing)**
+- **[Organization Chart](./Organization-Chart.md)**
 
 - **Workflow**: Diagrams that illustrate the structure and operational flow of the CSDUL system, showing how different components interact and the steps involved in the data processing pipeline.
 
-- **Hub and Nodes**: Hub and Nodes role and components set up. 
+- **Hub and Nodes**: Hub and Nodes role and components set up.
 
 ## CSDUL **Workflow**
-![General Diagram](https://github.com/user-attachments/assets/b4c8a4ba-49db-4e8e-b4bb-f189e0de3b5a)
-   
+![General Diagram](./assets/b4c8a4ba-49db-4e8e-b4bb-f189e0de3b5a)
+
 ## Definitions
 
 ### Data Sources
@@ -34,10 +34,10 @@ CSDUL components are integrated to generate new health indicators and analyses.
 
 ## Process to Incorporate Files Into CSDUL
 
-![Incorporation Process](https://github.com/user-attachments/assets/1074f403-a706-4687-8097-e7027ddee57a)
+![Incorporation Process](./assets/1074f403-a706-4687-8097-e7027ddee57a)
 
 ## CSDUL Components Set Up by Nodes
-![image](https://github.com/user-attachments/assets/ceee5ccc-7b18-4a40-9013-d898fc2c74e9)
+![image](./assets/ceee5ccc-7b18-4a40-9013-d898fc2c74e9)
 
 ## How Are CSDUL Indicators Organized?
 
