@@ -14,7 +14,7 @@ This repository contains the key documents that govern the operation of CSDUL. T
 
 ![General Diagram](https://github.com/user-attachments/assets/b4c8a4ba-49db-4e8e-b4bb-f189e0de3b5a)
 
-### Definitions
+## Definitions
 
 ### Data Sources
 These are the various sources of information used in the CSDUL system.
