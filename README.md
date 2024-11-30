@@ -6,7 +6,10 @@ This repository contains the key documents that govern the operation of CSDUL. T
   
 - **Process to Add Inputs into CSDUL**: This document outlines how new data or inputs are incorporated into the CSDUL system. It includes steps for validation, formatting, and quality assurance to maintain the integrity of the dataset.
 
-## General Diagram to Add Inputs to CSDUL
+- **Workflow**: Diagrams that illustrate the structure and operational flow of the CSDUL system, showing how different components interact and the steps involved in the data processing pipeline.
+- **[Organization Chart](https://drive.google.com/drive/folders/1BEbgWVEH6Ql6rVaWzNJaL8zSv2xzF1X8)**
+  
+## General CSDUL CSDUL
 
 ![General Diagram](https://github.com/user-attachments/assets/b4c8a4ba-49db-4e8e-b4bb-f189e0de3b5a)
 
