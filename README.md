@@ -10,13 +10,12 @@ This repository contains the key documents that govern the operation of CSDUL. T
   
 - **[Organization Chart](https://drive.google.com/file/d/1Ua1ioOLbiCRUBbGCvqOc84TH2xNAs38l/view?usp=sharing)**
 
+## CSDUL **Workflow**
+![General Diagram](https://github.com/user-attachments/assets/b4c8a4ba-49db-4e8e-b4bb-f189e0de3b5a)
+
 ## CSDUL Components Set Up
 ![image](https://github.com/user-attachments/assets/ceee5ccc-7b18-4a40-9013-d898fc2c74e9)
     
-## General CSDUL CSDUL
-
-![General Diagram](https://github.com/user-attachments/assets/b4c8a4ba-49db-4e8e-b4bb-f189e0de3b5a)
-
 ## Definitions
 
 ### Data Sources
