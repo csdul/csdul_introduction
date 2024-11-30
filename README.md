@@ -33,8 +33,7 @@ The Hub loads the validated inputs into CSDUL.
 CSDUL components are integrated to generate new health indicators and analyses.
 
 ## Process to Incorporate Files Into CSDUL
-
-![Incorporation Process](./assets/1074f403-a706-4687-8097-e7027ddee57a)
+![image](https://github.com/user-attachments/assets/1074f403-a706-4687-8097-e7027ddee57a)
 
 ## CSDUL Components Set Up by Nodes
 ![image](./assets/ceee5ccc-7b18-4a40-9013-d898fc2c74e9)
