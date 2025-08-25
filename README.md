@@ -50,8 +50,8 @@ Each indicator and model in the **CSDUL** is organized into the following folder
 
 - **Codes**: Contains scripts or algorithms used to calculate and process the indicator.
 - **Documents**: Includes detailed documentation outlining the methodology, purpose, and any relevant notes for the indicator.
-- **Tables or Datasets**: Contains the data used for calculating or representing the indicator.
-- **Support Files** (if applicable): Provides additional resources such as configuration files, reference data, or supplementary models.
+- **Results**: Contains the data used for calculating or representing the indicator.
+- **Data**: Contains raw and processed datasets that serve as the basis for indicator development. For indicators processed in RDC and subsequently added to CSDUL-OUT, the raw datasets cannot be included, as they are not available outside the RDC.
 
 This repository is collaboratively developed by the **Nodes** and the **Hub**, ensuring an integrated approach to data management and indicator development.
 
