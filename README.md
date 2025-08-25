@@ -19,8 +19,7 @@ This repository contains the key documents that govern the operation of CSDUL. T
   - **Node 5**: [Health System](https://github.com/csdul/pre_beta_health_system)
 
 ## CSDUL **Workflow**
-![image](https://github.com/user-attachments/assets/b4c8a4ba-49db-4e8e-b4bb-f189e0de3b5a)
-![Uploading image.png…]()
+![image](https://github.com/csdul/images/blob/main/csdul%20general%20workflow.png)
 
 ## Definitions
 
