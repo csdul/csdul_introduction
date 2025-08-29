@@ -1,6 +1,6 @@
 # Introduction to CSDUL
 
-This repository contains the key documents that govern the operation of CSDUL. These documents explain various processes associated with the project. They include:
+This repository contains the documents that govern the operation of CSDUL. These documents explain various processes associated with the project. They include:
 
 - **[Coding Standards](https://docs.google.com/document/d/17h79bGMTlEYICTR_gD_mV9XaFS2JQmzFCMC_w5CI0kc/edit?tab=t.0)**: Guidelines and protocols for coding within the project. It defines rules for naming conventions, formatting, and structuring code to ensure consistency and accuracy across the system.
   
