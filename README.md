@@ -8,12 +8,12 @@ CSDUL is structured around a central **Hub** and five **Nodes**:
 
 | Node | Focus Area |
 |------|------------|
-| Hub | Individual Health |
-| Node 1 | Political Economic Context |
-| Node 2 | Environmental Context |
-| Node 3 | Socioeconomic Context |
-| Node 4 | Material Circumstances |
-| Node 5 | Health System |
+| Hub | [Individual Health](https://github.com/csdul/pre_beta_hub_individual)  |
+| Node 1 | [Political Economic Context](https://github.com/csdul/pre_beta_political_economics_context) |
+| Node 2 | [Environmental Context](https://github.com/csdul/pre_beta_environmental_context) |
+| Node 3 | [Socioeconomic Context](https://github.com/csdul/pre_beta_socioeconomic_context) |
+| Node 4 | [Material Circumstances](https://github.com/csdul/pre_beta_material_circumstances) |
+| Node 5 | [Health System](https://github.com/csdul/pre_beta_health_system) |
 
 Each Node is led by an investigator and collaborates with the Hub to generate, validate, and integrate indicators. Data is primarily housed in **Statistics Canada’s Research Data Centers (RDC)**, with selected outputs maintained in **CSDUL-OUT** on GitHub.  
 
@@ -58,8 +58,7 @@ Each Node and Hub folder contains indicator subfolders, each organized into four
 
 This structure ensures **consistency, collaboration, and long-term replicability** of CSDUL outputs.
 
-
-
+---
 
 
 
