@@ -23,12 +23,11 @@ Each Node is led by an investigator and collaborates with the Hub to generate, v
 
 Each indicator follows a standardized structure:
 
-```text
 indicator_name/
-├── codes/      # Scripts to generate indicators
-├── data/       # Raw or processed datasets
-├── documents/  # Metadata, technical notes, methodology
-└── results/    # Summary tables, visualizations, outputs
+- Codes/      # Scripts to generate indicators
+- Data/       # Raw or processed datasets
+- Documents/  # Metadata, technical notes, methodology
+- Results/    # Summary tables, visualizations, outputs
 
 
 
