@@ -20,18 +20,44 @@ Each Node is led by an investigator and collaborates with the Hub to generate, v
 ## CSDUL Framework
 ![image](https://github.com/csdul/images/blob/main/csdul%20overview.png)
 
-
 ---
+**Structure, Processes, and Standards**
 
-## Folder Structure
+CSDUL is structured around six core components that define its organization, clarify roles, and establish processes and standards:
 
-Each indicator follows a standardized structure:
+1. Folders and files’ structure  
+2. Process workflow  
+3. Work communication standards  
+4. Data structure standards  
+5. Coding standards  
+6. Documenting social determinants in CSDUL  
 
-indicator_name/
-- Codes: Scripts to generate indicators
-- Data: Raw or processed datasets
-- Documents: Metadata, technical notes, methodology
-- Results: Summary tables, visualizations, outputs
+## 1. CSDUL Folder and Files Structure
+
+CSDUL ensures each indicator is well-documented, transparent, and reproducible. For every indicator, the following must be included:
+
+- Tables of indicators derived from data sources  
+- Code used to generate the indicator  
+- Technical documentation describing construction and sources  
+- End-user documentation (e.g., codebooks)  
+- Published studies or validation materials supporting robustness  
+
+CSDUL is maintained in two main environments:
+
+- **CSDUL-OUT**: GitHub repositories  
+- **CSDUL-RDC**: Statistics Canada Research Data Centres  
+
+Both environments share the same folder structure, organized into Nodes and Hub. 
+
+Each Node and Hub folder contains indicator subfolders, each organized into four standard folders:
+
+1. **Codes** – scripts and programming files for data processing and outputs  
+2. **Data** – raw or processed datasets for indicator development  
+3. **Documents** – metadata, technical notes, and methodological explanations  
+4. **Results** – summary tables, visualizations, and indicator values  
+
+This structure ensures **consistency, collaboration, and long-term replicability** of CSDUL outputs.
+
 
 
 
