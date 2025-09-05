@@ -17,8 +17,8 @@ CSDUL is structured around a central **Hub** and five **Nodes**:
 
 Each Node is led by an investigator and collaborates with the Hub to generate, validate, and integrate indicators. Data is primarily housed in **Statistics Canada’s Research Data Centers (RDC)**, with selected outputs maintained in **CSDUL-OUT** on GitHub.  
 
-**CSDUL Framework**
-[https://github.com/csdul/images/blob/main/csdul%20overview.png]
+## CSDUL Framework
+![image](https://github.com/csdul/images/blob/main/csdul%20overview.png)
 
 
 ---
