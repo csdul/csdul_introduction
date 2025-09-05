@@ -33,7 +33,7 @@ CSDUL is structured around six core components that define its organization, cla
 5. Coding standards  
 6. Documenting social determinants in CSDUL  
 
-For more details about points 3-6, please visit: [**CSDUL Framework: Architecture, Processes, and Standards**](https://drive.google.com/drive/folders/1P0YVkB8RRvYBs-R5tm-pvqsE8GZDfYZb). Points 1 and 2. 
+For more details about points 3-6, please visit: [**CSDUL Framework: Architecture, Processes, and Standards**](https://drive.google.com/drive/folders/1P0YVkB8RRvYBs-R5tm-pvqsE8GZDfYZb). Points 1 and 2 are briefly presented below. 
 
 ## 1. CSDUL Folder and Files Structure
 
