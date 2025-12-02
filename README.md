@@ -18,6 +18,30 @@ CSDUL is structured around a central **Hub** and five **Nodes**:
 
 Each Node is led by an investigator and collaborates with the Hub to generate, validate, and integrate indicators. Data is primarily housed in **Statistics Canada’s Research Data Centers (RDC)**, with selected outputs maintained in **CSDUL-OUT** on GitHub.  
 
+## Datasets
+
+The **CSDUL** works with a variety of administrative and public datasets. These datasets are processed, merged, and used to generate indicators for descriptive and statistical analyses. The datasets used are as follows:
+
+
+- [Census](https://www12.statcan.gc.ca/census-recensement/index-eng.cfm)  
+- [Correspondence File](https://www12.statcan.gc.ca/census-recensement/2021/geo/aip-pia/correspondence-correspondance/index-eng.cfm)  
+- [Canadian Vital Statistics - Death Database (CVSD)](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=3233)  
+- [National Household Survey (NHS)](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5178)  
+- [Discharge Abstract Database (DAD)](https://www.statcan.gc.ca/en/microdata/data-centres/data/cencchs-dad)  
+- [National Ambulatory Care Reporting System (NACRS)](https://www.statcan.gc.ca/en/microdata/data-centres/data/dad-nacrs-omhrs-cvsdd)  
+- [Canadian Census Health and Environment Cohorts (CanCHEC)](https://www.statcan.gc.ca/en/microdata/data-centres/data/canchec)  
+- [Canadian Classification of the Functions of Government (CCOFOG)](https://www.statcan.gc.ca/en/statistical-programs/document/5218_D3_V3)  
+- [Canadian Social Environment Typology (CanSET)](https://www150.statcan.gc.ca/n1/en/catalogue/17200002)  
+- [Canadian Population Health Survey (CPHS)](https://www.statcan.gc.ca/en/microdata/data-centres/data/cchs)  
+- [Longitudinal Administrative Databank (LAD)](https://www.statcan.gc.ca/imdb-bmdi/4107-eng.htm)  
+- [Postal Code Conversion File Plus (PCCF+)](https://www150.statcan.gc.ca/n1/en/catalogue/82F0086X)  
+- [Material and Social Deprivation Index (Pampalon Index)](https://www.inspq.qc.ca/en/deprivation/material-and-social-deprivation-index)  
+- [Canadian Index of Multiple Deprivation (CIMD)](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=5274)  
+- [DMTI Spatial’s CanMap Enhanced Points of Interest (EPOI)](https://www.dmtispatial.com/)  
+- [Supply and Use Tables](https://www150.statcan.gc.ca/n1/pub/15-602-x/15-602-x2017001-eng.htm)  
+- [Input-Output Economic Multipliers](https://open.canada.ca/data/en/dataset/8e56cad4-4e1b-4e7d-be21-5034feb6190a)  
+- [Canadian Urban Environmental Health Research Consortium (CANUE)](https://canue.ca/)
+
 ## CSDUL Framework
 ![image](https://github.com/csdul/images/blob/main/csdul%20overview.png)
 
