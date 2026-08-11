@@ -47,10 +47,6 @@ A central **Hub** will coordinate, assemble, and disseminate the outputs of CSDU
 
 Importantly, CSDUL will be designed to operate on microdata housed within Statistics Canada’s **Research Data Centres (RDC)**.
 
-### Figure 1. Overview of CSDUL
-
-![Overview of CSDUL](images/csdul_overview.png)
-
 ---
 
 # Structure, Processes, and Standards
@@ -178,10 +174,6 @@ It is comprised of four stages:
 4. **Integrate**  
    CSDUL components are integrated to generate new health indicators and analyses.
 
-### Figure 2. General CSDUL Workflow
-
-![General CSDUL Workflow](images/csdul_general_workflow.png)
-
 ---
 
 ## CSDUL-RDC Process
@@ -238,10 +230,6 @@ It is comprised of four stages:
 
 - **CSDUL-RDC** starts with Nodes creating inputs, validated by the Hub, saved in RDC, and then passed to OUT.
 - **CSDUL-OUT** starts with Nodes creating files, validated by the Hub, saved in OUT, and then passed into RDC.
-
-### Figure 3. Detailed Workflow to Add Inputs to CSDUL-RDC and CSDUL-OUT
-
-![Detailed CSDUL Workflow](images/csdul_detailed_workflow.png)
 
 ---
 
