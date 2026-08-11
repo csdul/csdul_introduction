@@ -464,8 +464,8 @@ For example:
 
 ```text
 ================================================================
-Programmer(s): Anousheh Marouzi
-Contact information: anousheh.marouzi@usask.ca
+Programmer(s): name last_name 
+Contact information: name@usask.ca
 Task: harmonize NHS data and calculate median income for each DA
 Date started: 20th May, 2021
 Last edited: 20th Oct, 2021
