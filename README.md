@@ -16,7 +16,7 @@ CSDUL is structured around a central **Hub** and five **Nodes**:
 | Node 4 | [Material Circumstances](https://github.com/csdul/pre_beta_material_circumstances) |
 | Node 5 | [Health System](https://github.com/csdul/pre_beta_health_system) |
 
-Each Node is led by an investigator and collaborates with the Hub to generate, validate, and integrate indicators. Data is primarily housed in **Statistics Canada’s Research Data Centers (RDC)**, with selected outputs maintained in **CSDUL-OUT** on GitHub. The document that must be completed for each indicator added to CSDUL should include all the information outlined in the following template: [Document - add inputs to CSDUL] (https://github.com/csdul/csdul_introduction/blob/main/documents/add_inputs_to_csdul.md)  
+Each Node is led by an investigator and collaborates with the Hub to generate, validate, and integrate indicators. Data is primarily housed in **Statistics Canada’s Research Data Centers (RDC)**, with selected outputs maintained in **CSDUL-OUT** on GitHub. The document that must be completed for each indicator added to CSDUL should include all the information outlined in the following template: [Document - add inputs to CSDUL](https://github.com/csdul/csdul_introduction/blob/main/documents/add_inputs_to_csdul.md)  
 
 ## Datasets
 
