@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Canadian Social Determinants Urban Laboratory (CSDUL)** is a research infrastructure designed to advance the study of social determinants of health in Canada using linked data. It integrates information from over 15 major data sources, anchored by the **Canadian Population Health Survey (CPHS)**, to support multi-level statistical analyses of social and non-social factors affecting health outcomes. More details about CSDUL is located in the document: [**CSDUL Framework: Architecture, Processes, and Standards**](https://drive.google.com/drive/folders/1P0YVkB8RRvYBs-R5tm-pvqsE8GZDfYZb), which is also summarized into this GitHub document [Framework](https://github.com/csdul/csdul_introduction/blob/main/documents/csdul_framework).
+The **Canadian Social Determinants Urban Laboratory (CSDUL)** is a research infrastructure designed to advance the study of social determinants of health in Canada using linked data. It integrates information from over 15 major data sources, anchored by the **Canadian Population Health Survey (CPHS)**, to support multi-level statistical analyses of social and non-social factors affecting health outcomes. More details about CSDUL is located in the document: [**CSDUL Framework: Architecture, Processes, and Standards**](https://drive.google.com/drive/folders/1P0YVkB8RRvYBs-R5tm-pvqsE8GZDfYZb), which is also summarized into this [GitHub document] (https://github.com/csdul/csdul_introduction/blob/main/documents/csdul_framework).
   
 
 CSDUL is structured around a central **Hub** and five **Nodes**:
